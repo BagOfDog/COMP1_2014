@@ -96,7 +96,7 @@ Make the following changes to the program:
 ##Task 10b - More scores
 The **constant** **`NO_OF_RECENT_SCORES`** provides the program with the number of scores that should be present in the high score list. Obviously it is possible to change this value between runs of the program.
 
-###Questions
+###Questions David Seaber
 **Answer** the following questions:
 
 1. Explain why changing the constant **`NO_OF_RECENT_SCORES`** could cause a problem if there are already scores stored in the text file **save_scores.txt**.
